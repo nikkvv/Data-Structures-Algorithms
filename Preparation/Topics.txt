@@ -1,0 +1,10 @@
+1) Linked Lists
+2) Stacks
+3) Queues
+4) Arrays
+5) Binary Trees
+6) Binary Search Trees
+7) Heap
+8) Hashing 
+9) Graphs
+10) Matrix
